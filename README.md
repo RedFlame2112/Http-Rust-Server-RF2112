@@ -1,1 +1,3 @@
 # Http-Rust-Server-RF2112
+
+This project was written by me in the Rust language. Works mostly as expected for now...
